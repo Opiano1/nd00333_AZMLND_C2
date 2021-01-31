@@ -40,9 +40,33 @@ The image of the datasets, experiment, and model after the experiment below.
 ![](screenshots/experimentcompleted.JPG) 
 
 #### Best Model
-
+* Trained Model
 ![](screenshots/bestmodel.JPG) 
+
+* Best Model Selected
 ![](screenshots/bestmodel1.JPG) 
+
+
+### Step 3 -Deploy the Model 
+
+The best model trained from the AutoML run after the successful run of the experiment was deployed using Azure Container Instance (ACI) with authentication enabled.
+
+
+### Step 4 - Enable Logging
+Retrieving logs after model deployment plays an important role in debugging errors and exceptions encountered during the model development life-cycle. To retrieve logs after model deployment application insights has to enabled. The code file `logs.py` was populated with details with application insights set to true and the code was executed.
+
+#### Application Insight Enabled
+
+![](screenshots/applicationinsight.JPG)
+
+
+#### Logs Running
+
+![](screenshots/applicationinsight2.JPG)
+
+#### Logs Running Terminal
+
+![](screenshots/logsrunning.JPG)
 
 
 
