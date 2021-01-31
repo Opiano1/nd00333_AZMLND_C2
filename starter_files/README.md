@@ -34,6 +34,13 @@ The image of the datasets, experiment, and model after the experiment below.
 #### Dataset
 ![](screenshots/dataset.JPG) 
 
+#### Completed Experiment
+
+![](screenshots/experiment1.JPG) 
+![](screenshots/experiment completed.JPG) 
+
+
+
 
 
 ## Screen Recording
