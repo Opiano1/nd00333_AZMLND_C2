@@ -18,6 +18,7 @@ Microsoft provides a cloud based solution with a Machine Learning component (Azu
 
 The project can be improved further through;
 * Increasing the compute instances from CPU to GPU or more advanced instance that will accelerate a faster AutoML training
+* A data processing pipeline can be parsed before the training run and more feature engineering can be performed to create more features that will improve the performances of the model
 
 
 ## Key Steps
