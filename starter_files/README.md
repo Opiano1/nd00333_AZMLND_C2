@@ -111,5 +111,3 @@ In this step, the task is to create and publish a pipeline. The Jupyter Notebook
 ## Screen Recording
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
 
-## Standout Suggestions
-*TODO (Optional):* This is where you can provide information about any standout suggestions that you have attempted.
