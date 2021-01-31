@@ -14,8 +14,27 @@ Microsoft provides a cloud based solution with a Machine Learning component (Azu
 ## Architectural Diagram
 ![](screenshots/archietecture.JPG) 
 
+## Improving the Projects
+
+The project can be improved further through;
+* Increasing the compute instances from CPU to GPU or more advanced instance that will accelerate a faster AutoML training
+
+
 ## Key Steps
-*TODO*: Write a short discription of the key steps. Remeber to include all the screenshots required to demonstrate key steps. 
+### Step 1 - Authentication
+
+The authentication was automatically done on the `Project Lab - VM` 
+
+### Step 2 - AutoML Experiment
+
+In creating the AutoML Experiment to train and deploy the model for consumption, the `Banking dataset` was first loaded after which the experiment then created and a compute cluster created to run the classification ML experiment.
+
+The image of the datasets, experiment, and model after the experiment below.
+
+#### Dataset
+![](screenshots/dataset.JPG) 
+
+
 
 ## Screen Recording
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
