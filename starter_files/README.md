@@ -100,9 +100,11 @@ In this step, the task is to create and publish a pipeline. The Jupyter Notebook
 
 #### Jupyter Notebook - UseRunWidget
 
-![](screenshots/Jupiter-notebook.JPG)
+![](screenshots/Jupyternotebook.JPG)
 
-![](screenshots/publish-final line.JPG)
+##### Jupyter Notebook - UseRunWidget
+![](screenshots/Jupyternotebook2.JPG)
+
 
 
 
