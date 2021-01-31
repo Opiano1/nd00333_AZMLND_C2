@@ -68,6 +68,12 @@ Retrieving logs after model deployment plays an important role in debugging erro
 
 ![](screenshots/logsrunning.JPG)
 
+### Step 5 - Swagger Documentation
+
+For this step, after locating the Azure provided swagger json file and downloading it, a swagger container was running on port 80, and the python file `serve.py` was used to create a serve that is listening on port 8000. Once the UI is created, the API is interacted with. The Swagger output is displayed below
+
+![](screenshots/swagger_1.JPG)
+![](screenshots/swagger_4.JPG)
 
 
 
