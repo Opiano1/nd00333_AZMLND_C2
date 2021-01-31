@@ -37,7 +37,12 @@ The image of the datasets, experiment, and model after the experiment below.
 #### Completed Experiment
 
 ![](screenshots/experiment1.JPG) 
-![](screenshots/experiment completed.JPG) 
+![](screenshots/experimentcompleted.JPG) 
+
+#### Best Model
+
+![](screenshots/bestmodel.JPG) 
+![](screenshots/bestmodel1.JPG) 
 
 
 
