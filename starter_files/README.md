@@ -76,6 +76,29 @@ For this step, after locating the Azure provided swagger json file and downloadi
 ![](screenshots/swagger_4.JPG)
 
 
+### Step 6 - Consume Model Endpoints
+
+At this stage the model has been deployed and can be interacted with as a request to the trained model. The `endpoint.py` was executed with the correct `scoring_uri` and `key` updated in the script. A result is generated after running the script for the sample data as shown below;
+
+![](screenshots/consume.JPG)
+
+### Step 7 -  Create and Publish a Pipeline
+The task here is to create and publish a pipeline leveraging on the Jupyter Notebook. The notebook is uploaded to the Azure ML studio and the appropriate parameters are provided where required, and the `config.json` download and put in the same directory. All the cells were executed which creates the Pipelines as shown below;
+In this step, the task is to create and publish a pipeline. The Jupyter Notebook is uploaded to the Azure ML studio. The right environment variables are provided, and the .
+
+#### Create Pipeline
+
+![](screenshots/pipeline1.JPG)
+
+![](screenshots/pipeline2.JPG)
+
+![](screenshots/pipeline3.JPG)
+
+![](screenshots/pipeline4.JPG)
+
+![](screenshots/pipeline5.JPG)
+
+#### Create Pipeline
 
 
 ## Screen Recording
