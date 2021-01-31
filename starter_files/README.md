@@ -98,7 +98,12 @@ In this step, the task is to create and publish a pipeline. The Jupyter Notebook
 
 ![](screenshots/pipeline5.JPG)
 
-#### Create Pipeline
+#### Jupyter Notebook - UseRunWidget
+
+![](screenshots/Jupiter-notebook.JPG)
+
+![](screenshots/publish-final line.JPG)
+
 
 
 ## Screen Recording
